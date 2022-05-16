@@ -1,0 +1,2 @@
+import myold
+myold.login()
